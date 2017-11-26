@@ -2,7 +2,7 @@ package com.kodilla;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//first spring appl
 @SpringBootApplication
 public class KodillaCourseApplication {
 
